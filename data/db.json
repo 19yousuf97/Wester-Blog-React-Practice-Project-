@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "The First Westorosi King",
+      "body": "Aegon l Targaryen was born...",
+      "author": "Maester Marwyn",
+      "id": 1
+    },
+    {
+      "title": "The REAL heir to The Throne",
+      "body": "He was raised a Bastard...",
+      "author": "Maester Samwell",
+      "id": 2
+    },
+    {
+      "title": "Corruption in The Citadel",
+      "body": "Are they really working for Knowledge?...",
+      "author": "Qyburn",
+      "id": 3
+    }
+  ]
+}
